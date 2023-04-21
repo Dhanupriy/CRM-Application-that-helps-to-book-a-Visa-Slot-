@@ -2,7 +2,7 @@
 
 Trailhead URLs
 
-Team Leader:https://trailblazer.me/id/rajar190
+Team Leader   :https://trailblazer.me/id/rajar190
 
 Team member 1 : https://trailblazer.me/id/tslal2
 
